@@ -1,7 +1,6 @@
-## Hello World👋, I'm Punit!👨🏻‍💻 
+## Hi World!👨🏻‍💻 
 
 <img src="https://github.com/punit170/punit170/blob/main/punit170githubbackgroundimg.png" alt="a placard that says Punit Malpani - software engineer alongside illustrated iconic technical skills of Punit">
-
 
 
 <!--
