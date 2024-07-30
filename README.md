@@ -5,4 +5,4 @@
 
 [<kbd> <br> Check out my projects <br> </kbd>][Link]
 
-[Link]: # 'https://github.com/punit170?tab=repositories'
+[Link]: https://github.com/punit170?tab=repositories
